@@ -2,6 +2,21 @@
 
 ## This is the material will be use for training
 
+# Using Bootstrap in our web application
+
+1. [Download Bootstrap](https://github.com/twbs/bootstrap/releases/download/v3.3.7/bootstrap-3.3.7-dist.zip)
+2. Extract into `101` folder
+3. Create `index.php` in `101` folder
+
+
+
+
+
+
+
+
+
+
 **TASKS**
 
 1. Restructure HTML
